@@ -179,8 +179,18 @@ https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8?check
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4af3fb3-c7bd-419b-a2e3-da5c4363586a&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:0,Universal Comedy (480p)
 http://190.2.212.209:8050/play/a0q4?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/98NIM9S.png" group-title="Undefined",KXLN-DT1 (Univision West) [Geo-blocked]
+https://unidfp-nlds145.global.ssl.fastly.net/nlds/univisionnow/univision_hou2/as/live/univision_hou2_hd_pc.m3u8?t1=test_token&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Univision East
+https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Univision East [Geo-blocked]
+https://unidfp-nlds155.global.ssl.fastly.net/nlds/univisionnow/univision_east2/as/live/univision_east2_hd_pc.m3u8?t1=test_token&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",WXTV-DT1 (Univision New York) [Geo-blocked]
+https://unidfp-nlds143.global.ssl.fastly.net/nlds/univisionnow/univision_ny2/as/live/univision_ny2_hd_pc.m3u8?t1=test_token&checkedby:iptvcat.com
+
 #EXTINF:0,Universal Crime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549341853fc9700083901ac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc200-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8ea05b6-c631-4463-8491-a4394e906d3c&serverSideAds=false&checkedby:iptvcat.com
+https://list.iptvcat.com/my_list/0e5e3dac87df08fb7b2259aa27a3e0ec.m3u8
 #EXTINF:0,Univision East
 https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0,VH1 East
@@ -223,3 +233,4 @@ https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Converting https://lnc-wsoc.tubi.video/playlist.m3u8?checkedby:iptvcat.com
 https://lnc-wsoc.tubi.video/playlist.m3u8?checkedby:iptvcat.com
+
